@@ -1,6 +1,6 @@
 # Machine Learning for Public Health: Predicting COVID-19 Vaccination Uptake and Test Positivity in the U.S.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-red)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1%2B-orange)
